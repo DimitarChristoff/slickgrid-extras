@@ -1,4 +1,4 @@
-import {Grid} from '../src/';
+import {Grid} from 'slickgrid-es6';
 
 import data from './example-data';
 

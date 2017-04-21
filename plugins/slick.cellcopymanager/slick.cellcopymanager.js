@@ -1,4 +1,6 @@
-import Slick from 'slickgrid-es6';
+import {Slick} from 'slickgrid-es6';
+
+
 
 const { keyCode } = Slick;
 

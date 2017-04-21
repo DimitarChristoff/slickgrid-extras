@@ -1,4 +1,5 @@
-import {Grid, Formatters} from '../src/';
+import {Grid} from 'slickgrid-es6';
+import {Formatters} from '../src/';
 import origData from './example-data';
 import HeaderButtonsPlugin from '../plugins/slick.headerbuttons';
 import Help from '../images/help.png';

@@ -1,4 +1,4 @@
-import Slick              from 'slickgrid-es6';
+import {Slick}            from 'slickgrid-es6';
 import CellRangeSelector  from '../slick.cellrangeselector/slick.cellrangeselector';
 
 export default CellSelectionModel;

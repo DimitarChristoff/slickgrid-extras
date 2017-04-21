@@ -1,4 +1,5 @@
-import { Grid, Formatters } from '../src/';
+import { Grid } from 'slickgrid-es6';
+import { Formatters } from '../src/';
 import data from './example-data';
 
 function formatter(row, cell, value, columnDef, dataContext){

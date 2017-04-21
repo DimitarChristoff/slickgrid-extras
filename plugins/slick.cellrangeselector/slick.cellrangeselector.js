@@ -1,5 +1,5 @@
 import $                  from 'jquery';
-import Slick              from 'slickgrid-es6';
+import {Slick}            from 'slickgrid-es6';
 import CellRangeDecorator from '../slick.cellrangedecorator/slick.cellrangedecorator';
 
 export default CellRangeSelector;

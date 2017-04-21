@@ -1,4 +1,5 @@
-import {Grid, Formatters, Editors} from '../';
+import {Grid} from 'slickgrid-es6';
+import {Formatters, Editors} from '../src';
 import CellSelectionModel from '../plugins/slick.cellselectionmodel/slick.cellselectionmodel';
 import data from './example-data';
 

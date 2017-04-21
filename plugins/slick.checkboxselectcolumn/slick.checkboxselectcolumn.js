@@ -1,5 +1,5 @@
-import $      from 'jquery';
-import Slick  from 'slickgrid-es6';
+import $        from 'jquery';
+import {Slick}  from 'slickgrid-es6';
 
 export default CheckboxSelectColumn;
 

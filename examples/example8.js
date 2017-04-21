@@ -1,4 +1,4 @@
-import {FrozenGrid as Grid, Data} from '../src/';
+import {FrozenGrid as Grid, Data} from 'slickgrid-es6';
 import data from './example-data';
 import $ from 'jquery';
 

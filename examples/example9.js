@@ -1,5 +1,5 @@
-import React from 'react';
-import {FrozenGrid as Grid, Editors, Plugins} from '../src/';
+import {FrozenGrid as Grid} from 'slickgrid-es6';
+import {Editors, Plugins} from '../src/';
 import './example9.less';
 
 const { CheckboxSelectColumn, RowSelectionModel } = Plugins;

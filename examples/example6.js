@@ -1,4 +1,4 @@
-import { Grid } from '../src/';
+import { Grid } from 'slickgrid-es6';
 import Help from '../images/help.png';
 import TagRed from '../images/tag_red.png';
 import CommentYellow from '../images/comment_yellow.gif';
